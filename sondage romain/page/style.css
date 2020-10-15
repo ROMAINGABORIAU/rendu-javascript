@@ -1,0 +1,59 @@
+.bg-color {
+	background-color: white;
+}
+
+.nb_pts_a_gagner_sondage {
+	background-color: yellow;
+	font-size: 500%;
+	color: green;
+}
+
+.competition_sondage {
+ border-width:5px;
+ border-style:solid;
+ border-color:green;
+ font-size: 300%;
+ }
+ .equipe_sondage {
+ 	font-size: 200%;
+ }
+
+ .img_opposition_sondage {
+border-radius: 20px;
+ }
+
+ .texte_fair_play_sondage {
+ 	font-size: 150%;
+ }
+
+ .texte_tableau_sondage {
+ 	font-size: 200%;
+ }
+
+.equipe_vs_equipe_sondage {
+	font-style: italic;
+	color: red;
+	font-size: 300%;
+	text-align: center;
+}
+
+.choix_gagnant_sondage {
+	font-size: 200%;
+	font-style: bold;
+}
+
+.bg_footer_sondage {
+	background-color: green;
+}
+
+.link_footer_sondage {
+	color: white;
+}
+
+.img_cellule_liste_as {
+	border-radius: 40px;
+}
+
+.btn_envoie_sondage {
+	size: 15px;
+}
